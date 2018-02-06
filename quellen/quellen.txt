@@ -1,0 +1,32 @@
+Clinton Brennan on Unity-Lockstep
+http://clintonbrennan.com/2013/12/lockstep-implementation-in-unity3d/
+[@CB]
+
+Glenn Fiedler on Deterministic Lockstep in Unity
+https://gafferongames.com/post/deterministic_lockstep/
+als GDC-Vortrag:
+https://archive.org/details/GDC2015Fiedler
+[@GF1]
+
+Glenn Fiedler patent on synchronisation in online-games
+https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US8308570.pdf
+[@GF2]
+
+arbeit mit überblick über entwicklung von verteilten virtuellen Umgebungen(DVEs)
+[Mi11] John L. Miller, Distributed virtual environment scalability and security, University of Cambridge, Cambridge, 2011 
+
+<!!>
+Buch über Netzwerkprogrammierung in C#
+http://eds.b.ebscohost.com/eds/detail/detail?vid=27&sid=a9d0bdfe-8b86-4702-9058-1588d522eab1%40sessionmgr102&bdata=Jmxhbmc9ZGUmc2l0ZT1lZHMtbGl2ZQ%3d%3d#AN=edsssb.bks00002512&db=edsssb
+[Bl62] Richard Blum, C# Network Programming, SYBEX Inc., Almeda CA, 2003
+
+<!!>
+buch über deterministische systeme -> was ist lockstep?
+https://books.google.de/books?id=UVlq7SFDCVUC&pg=PA4&lpg=PA4&dq=Fault-Tolerant+Real-Time+Systems:+The+Problem+of+Replica+Determinism&source=bl&ots=SDW4-hwL5w&sig=hDmbUFqad-B0-9ciDsiPo5suDfM&hl=en&sa=X&ved=0ahUKEwizntjPm6_XAhVHJ-wKHV1vBA0Q6AEIRTAE#v=onepage&q&f=false
+[Po96] Stefan Poledna, Fault-Tolerant Real-Time Systems The Problem of Replica Determinism, Springer, 1996
+
+Buch über algorithmen bei Multiplayer-Spielen -> was ist ein "short-circuit relay"
+https://theswissbay.ch/pdf/Gentoomen%20Library/Game%20Development/Programming/Algorithms%20And%20Networking%20For%20Computer%20Games.pdf
+[JS06] Jouni Smed, Harri Hakonen, Algorithms and Networking for Computer Games, John Wiley & Sons Ltd, Chichester, 2006
+
+für weiter Quellen: http://www.iis.sinica.edu.tw/~swc/ngbib.html
